@@ -1,29 +1,29 @@
-<h2 align="left">Hi 👋! My name is Aditya Solanki and I'm a White+Grey Hat, from India...</h2>
 
-###
 
-<div align="center">
-  <img 
-    scr="https://media.giphy.com/media/KazG5bdau9pIqS90oj/giphy.gif?cid=790b7611z5c862y4mebc3ayjn7eo8pr02m3k2q6sim13cayt&ep=v1_gifs_search&rid=giphy.gif&ct=g"
-    height="150"
-    alt="I Don't know how to talk with peoples"
-  />
-</div>
+Here’s a polished and professional GitHub profile README for you:  
 
-###
+---
 
-<div align="right">
-  <img 
-    height="150" 
-    src="https://media.giphy.com/media/xT8qB2HYA1vVSxooSY/giphy.gif?cid=790b76112k4wc9bb1ipakd0p8855qqtr0dk80tei74m27q4i&ep=v1_gifs_search&rid=giphy.gif&ct=g" 
-    alt="Fun GIF" 
-  />
-  <img 
-    height="120" 
-    src="https://media.giphy.com/media/dLolp8dtrYCJi/giphy.gif?cid=ecf05e47jsmzucmuixljbg7fk0i8z6i08admtbgf8swx5zyr&ep=v1_gifs_related&rid=giphy.gif&ct=g" 
-    alt="Fun GIF" 
-  />
-</div>
+# 👋 Hey there, I'm Aditya Solanki (1uci1er)  
+
+Welcome to my GitHub profile! I'm a **tech and cybersecurity enthusiast** exploring the dynamic and ever-evolving world of technology in this new era.  
+
+## 🚀 About Me  
+- 🔒 Passionate about **Cybersecurity**, **Penetration Testing**, and **System Hardening**.  
+- 💻 Building and tinkering with **Linux distributions**—Creator of **BlackShieldOS**, a security-focused Arch Linux-based distro.  
+- 🌟 Advocate for **Open Source** and constantly learning about **emerging technologies**.  
+- 📜 Strong believer in **knowledge sharing** and contributing to the tech community.  
+
+## 🛠️ Skills & Technologies  
+- **Operating Systems**: Arch Linux, BlackShieldOS, and other Linux distros  
+- **Tools**: debootstrap, mkisofs, apt, KDE Plasma  
+- **Domains**: Cybersecurity, Pentesting, Secure System Design  
+- **Programming**: Python, Bash scripting, and more  
+
+## 📈 Stats & Achievements  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=1uci1er&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1uci1er&layout=compact&theme=radical)  
+
 
 ###
 
