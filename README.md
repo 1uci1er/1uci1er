@@ -1,10 +1,6 @@
-
-
-Here’s a polished and professional GitHub profile README for you:  
-
 ---
 
-# 👋 Hey there, I'm Aditya Solanki (1uci1er)  
+# 👋 Hey there, I'm Aditya Solanki AKA(1uci1er)  
 
 Welcome to my GitHub profile! I'm a **tech and cybersecurity enthusiast** exploring the dynamic and ever-evolving world of technology in this new era.  
 
@@ -12,7 +8,9 @@ Welcome to my GitHub profile! I'm a **tech and cybersecurity enthusiast** explor
 - 🔒 Passionate about **Cybersecurity**, **Penetration Testing**, and **System Hardening**.  
 - 💻 Building and tinkering with **Linux distributions**—Creator of **BlackShieldOS**, a security-focused Arch Linux-based distro.  
 - 🌟 Advocate for **Open Source** and constantly learning about **emerging technologies**.  
-- 📜 Strong believer in **knowledge sharing** and contributing to the tech community.  
+- 📜 Strong believer in:  
+  - **Knowledge sharing** and contributing to the tech community.  
+  - **Learning hacking and cybersecurity** to protect my country from threats posed by other nations (like **North Korea, China, USA, and others**) that constantly attempt to compromise government and military data.  
 
 ## 🛠️ Skills & Technologies  
 - **Operating Systems**: Arch Linux, BlackShieldOS, and other Linux distros  
@@ -24,6 +22,13 @@ Welcome to my GitHub profile! I'm a **tech and cybersecurity enthusiast** explor
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=1uci1er&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1uci1er&layout=compact&theme=radical)  
 
+## 🔗 Connect With Me  
+- 🌐 [Portfolio Website](#) (Coming Soon!)  
+- 🐦 [Twitter](https://twitter.com/yourhandle)  
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 📧 Reach me at: [solankiaditya131@proton.me](mailto:your-email@example.com)  
+
+---
 
 ###
 
