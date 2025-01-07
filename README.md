@@ -10,7 +10,8 @@ Welcome to my GitHub profile! I'm a **tech and cybersecurity enthusiast** explor
 - 🌟 Advocate for **Open Source** and constantly learning about **emerging technologies**.  
 - 📜 Strong believer in:  
   - **Knowledge sharing** and contributing to the tech community.  
-  - **Learning hacking and cybersecurity** to protect my country from threats posed by other nations (like **North Korea, China, USA, and others**) that constantly attempt to compromise government and military data.  
+  - **Learning hacking and cybersecurity** to protect my country from threats posed by other nations (like **North Korea, China, USA, and others**) that constantly attempt to compromise government and military data.
+-   🤝 I’m also connected with **THM (The Hackers Meetup)** chapter Surat and a proud member of the **Indian Ethical Hacking Community**.
 
 ## 🛠️ Skills & Technologies  
 - **Operating Systems**: Arch Linux, BlackShieldOS, and other Linux distros  
