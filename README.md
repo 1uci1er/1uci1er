@@ -1,5 +1,5 @@
 ---
-![](https://komarev.com/ghpvc/?username=1uci1er&label=PROFILE+VIEWS)
+
 # 👋 Hey there, I'm Aditya Solanki AKA(1uci1er)  
 
 Welcome to my GitHub profile! I'm a **tech and cybersecurity enthusiast** exploring the dynamic and ever-evolving world of technology in this new era.  
@@ -86,7 +86,7 @@ Welcome to my GitHub profile! I'm a **tech and cybersecurity enthusiast** explor
     />
   </a>
 </div>
-
+![](https://komarev.com/ghpvc/?username=1uci1er&label=PROFILE+VIEWS)
 ###
 
 <br clear="both">
