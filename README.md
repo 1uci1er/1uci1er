@@ -26,13 +26,16 @@ Welcome to my GitHub profile! I'm a **tech and cybersecurity enthusiast** explor
 <img 
       src="https://camo.githubusercontent.com/7c0bbcfa3dee5ef57d7ea4a4204049d86abeec2e91d569b929e72b71cbf249e6/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d73616d6179383235267468656d653d6461726b687562266e6f2d6672616d653d7472756526636f6c756d6e3d34266d617267696e2d773d3135266d617267696e2d683d31352662675f636f6c6f723d303030303030267469746c655f636f6c6f723d464630303030266e6f2d62673d74727565"
     />
+    
+## 🔗 Let's Connect!
 
-## 🔗 Connect With Me  
-- [Check this](https://repofinder-ai-modern-yj4o.bolt.host/)
-- 🌐 [Portfolio Website](https://blackhatlucifer.netlify.app/)
-- 🐦 [Twitter](https://twitter.com/yourhandle)  
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 📧 Reach me at: [solankiaditya131@proton.me](mailto:your-email@example.com)  
+- 🚀 Check out my latest project: [RepoFinder AI](https://repofinder-ai-modern-yj4o.bolt.host/)
+- 🌐 Portfolio: [blackhatlucifer.netlify.app](https://blackhatlucifer.netlify.app/)
+- 🐦 Twitter/X: [twitter.com/yourhandle](https://twitter.com/yourhandle)
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 Email me: [solankiaditya131@proton.me](mailto:solankiaditya131@proton.me)
+
+Feel free to reach out—I'm always open to collaborations, questions, or just a chat! 😊
 
 ---
 
